@@ -1,0 +1,3 @@
+this is my file 2
+which convert .txt to .jpg only after if 
+assignment 12 question 3 is going to be evaluated. 
